@@ -16,7 +16,7 @@ export default function Navbar() {
     <header className="navbar-fixed-top">
       <nav className={na ? 'navbar active navbar-expand-lg navbar-fixed-top' : 'navbar navbar-expand-lg'}>
         <div className="container-fluid">
-          <a className="navbar-brand" href="/"><img src='images/mlogo.png'alt="/" className="img-fluid hh-50"/></a>
+          <a className="navbar-brand" href="/Resume"><img src='images/mlogo.png'alt="/" className="img-fluid hh-50"/></a>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
           </button>
