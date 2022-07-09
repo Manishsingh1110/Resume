@@ -10,17 +10,6 @@ function Projects() {
                 <div className="main-container portfolio-inner clearfix">
                     <div className="portfolio-div">
                         <div className="portfolio">
-                            {/* <div className="categories-grid wow fadeInLeft">
-                                <nav className="categories">
-                                    <ul className="portfolio_filter">
-                                        <li><a href="/" className="active" data-filter="*">All</a></li>
-                                        <li><a href=".Entertainment" data-filter=".Entertainment">Entertainment</a></li>
-                                        <li><a href=".E-comerce" data-filter=".E-comerce">E-comerce Website</a></li>
-                                        <li><a href=".Design" data-filter=".Design">Design</a></li>
-                                        <li><a href=".Website" data-filter=".Website">Website</a></li>
-                                    </ul>
-                                </nav>
-                            </div> */}
                             <div className="no-padding row portfolio_container clearfix" data-aos="fade-up">
                                 <div className="col-md-4 col-sm-6  Design  Website">
                                     <a id="demo01" href="#animatedModal" className="portfolio_item">
